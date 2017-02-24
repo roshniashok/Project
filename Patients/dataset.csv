@@ -1,0 +1,382 @@
+age,diastolicbp,gender,heartrate,systolicbp,village
+56,100,Male,70,150,Juan Sanchez
+42,90,Male,71,120,Juan Sanchez
+69,90,Male,74,120,Juan Sanchez
+70,80,Male,80,180,Juan Sanchez
+62,78,Male,73,138,Juan Sanchez
+63,80,Male,75,115,Juan Sanchez
+31,80,Male,82,130,Juan Sanchez
+35,90,Male,64,150,Juan Sanchez
+40,100,Male,69,200,Juan Sanchez
+38,80,Male,70,120,Juan Sanchez
+51,110,Male,68,190,Juan Sanchez
+56,50,Male,72,90,Juan Sanchez
+60,80,Male,78,130,Juan Sanchez
+36,76,Female,70,120,Juan Sanchez
+43,120,Female,75,200,Juan Sanchez
+50,70,Female,74,140,Juan Sanchez
+34,80,Female,69,110,Juan Sanchez
+59,90,Female,73,134,Juan Sanchez
+52,105,Female,77,160,Juan Sanchez
+60,90,Female,58,140,Juan Sanchez
+52,65,Female,73,105,Juan Sanchez
+32,80,Female,65,126,Juan Sanchez
+42,80,Female,74,129,Juan Sanchez
+44,78,Female,76,120,Juan Sanchez
+27,64,Female,72,100,Juan Sanchez
+100,70,Female,78,130,Juan Sanchez
+28,80,Female,71,118,Juan Sanchez
+52,70,Female,74,144,Juan Sanchez
+43,120,Female,67,180,Juan Sanchez
+52,70,Female,64,138,Juan Sanchez
+48,84,Female,78,110,Juan Sanchez
+48,90,Female,73,140,Juan Sanchez
+52,70,Female,67,120,Juan Sanchez
+29,78,Female,66,118,Juan Sanchez
+23,70,Female,64,110,Juan Sanchez
+38,70,Female,71,110,Juan Sanchez
+29,88,Female,72,130,Juan Sanchez
+28,80,Female,86,140,Juan Sanchez
+26,88,Female,72,130,Juan Sanchez
+60,90,Female,68,165,Juan Sanchez
+60,90,Female,70,180,Juan Sanchez
+49,82,Female,82,130,Juan Sanchez
+58,90,Female,84,140,Juan Sanchez
+32,80,Female,68,112,Juan Sanchez
+47,68,Female,71,130,Juan Sanchez
+62,100,Female,77,158,Juan Sanchez
+35,76,Female,78,112,Juan Sanchez
+47,90,Female,83,150,Juan Sanchez
+56,86,Female,66,140,Juan Sanchez
+63,80,Female,70,142,Juan Sanchez
+46,78,Female,82,110,Juan Sanchez
+40,70,Female,73,140,Juan Sanchez
+60,80,Female,78,130,Juan Sanchez
+38,94,Male,78,132,Cojobal
+77,88,Male,81,140,Cojobal
+45,92,Male,78,140,Cojobal
+45,86,Male,80,122,Cojobal
+68,92,Male,75,128,Cojobal
+56,72,Male,79,90,Cojobal
+70,78,Male,81,118,Cojobal
+60,90,Male,71,120,Cojobal
+30,70,Male,83,110,Cojobal
+48,84,Male,63,122,Cojobal
+50,100,Male,70,200,Cojobal
+43,75,Male,75,110,Cojobal
+49,90,Female,69,140,Cojobal
+32,100,Female,62,150,Cojobal
+19,82,Female,75,120,Cojobal
+60,96,Female,66,150,Cojobal
+66,82,Female,68,120,Cojobal
+65,98,Female,57,164,Cojobal
+39,82,Female,61,122,Cojobal
+47,80,Female,84,112,Cojobal
+35,84,Female,61,130,Cojobal
+36,86,Female,77,140,Cojobal
+63,78,Female,62,102,Cojobal
+43,80,Female,71,122,Cojobal
+32,96,Female,68,130,Cojobal
+41,88,Female,69,102,Cojobal
+29,88,Female,79,130,Cojobal
+24,76,Female,76,122,Cojobal
+37,120,Female,87,200,Cojobal
+19,82,Female,78,140,Cojobal
+67,120,Female,73,180,Cojobal
+43,82,Female,89,124,Cojobal
+47,80,Female,81,110,Cojobal
+41,92,Female,73,124,Cojobal
+29,60,Female,64,90,Cojobal
+52,80,Female,65,120,Cojobal
+49,90,Female,73,159,Cojobal
+41,92,Female,69,142,Cojobal
+66,84,Female,57,140,Cojobal
+74,78,Female,88,118,Cojobal
+43,76,Female,78,122,Cojobal
+22,70,Female,80,108,Cojobal
+52,106,Female,79,170,Cojobal
+51,70,Female,81,120,Cojobal
+56,84,Female,73,140,Cojobal
+54,70,Female,74,100,Cojobal
+26,68,Female,84,118,Cojobal
+38,80,Female,83,110,Cojobal
+34,72,Female,82,114,Cojobal
+50,100,Female,85,150,Cojobal
+63,95,Female,86,160,Cojobal
+56,92,Female,77,140,Cojobal
+67,105,Female,72,190,Cojobal
+35,78,Female,79,118,Cojobal
+43,80,Female,59,120,Cojobal
+43,82,Female,64,150,Cojobal
+60,80,Female,65,120,Cojobal
+70,110,Female,87,200,Cojobal
+44,97,Female,64,150,Cojobal
+83,98,Male,70,168,Carmona
+60,78,Male,83,110,Carmona
+50,78,Male,89,142,Carmona
+51,96,Male,69,150,Carmona
+64,100,Male,73,160,Carmona
+56,84,Male,84,142,Carmona
+84,90,Male,76,160,Carmona
+76,80,Male,79,150,Carmona
+51,70,Male,81,110,Carmona
+73,78,Male,92,128,Carmona
+68,84,Male,74,122,Carmona
+75,100,Male,77,150,Carmona
+50,90,Male,66,140,Carmona
+53,60,Male,68,122,Carmona
+51,76,Male,77,120,Carmona
+40,90,Male,79,130,Carmona
+37,70,Male,78,100,Carmona
+37,100,Male,77,130,Carmona
+63,100,Male,79,150,Carmona
+44,93,Male,59,130,Carmona
+48,80,Male,64,100,Carmona
+70,75,Male,88,120,Carmona
+26,75,Male,82,105,Carmona
+71,70,Male,64,100,Carmona
+48,100,Male,70,150,Carmona
+39,100,Female,83,196,Carmona
+59,98,Female,89,130,Carmona
+21,80,Female,69,110,Carmona
+61,100,Female,73,140,Carmona
+20,62,Female,84,122,Carmona
+38,80,Female,76,110,Carmona
+48,104,Female,79,164,Carmona
+30,82,Female,81,120,Carmona
+32,60,Female,80,120,Carmona
+40,88,Female,74,150,Carmona
+56,102,Female,77,160,Carmona
+46,96,Female,66,150,Carmona
+39,92,Female,68,135,Carmona
+40,78,Female,77,124,Carmona
+32,70,Female,79,110,Carmona
+30,80,Female,78,100,Carmona
+34,80,Female,77,95,Carmona
+50,80,Female,78,130,Carmona
+50,80,Female,73,120,Carmona
+54,78,Female,89,108,Carmona
+56,78,Female,81,118,Carmona
+56,105,Female,73,170,Carmona
+20,70,Female,64,105,Carmona
+55,80,Female,65,120,Carmona
+40,70,Female,73,95,Carmona
+50,70,Female,69,95,Carmona
+64,90,Female,57,120,Carmona
+39,100,Female,79,140,Carmona
+40,82,Female,78,142,Carmona
+39,120,Female,80,160,Carmona
+40,80,Female,79,110,Carmona
+70,118,Female,88,190,Carmona
+40,110,Female,73,180,Carmona
+39,85,Female,74,130,Carmona
+40,90,Female,84,130,Carmona
+45,80,Female,83,120,Carmona
+46,120,Female,82,204,Carmona
+39,110,Female,85,150,Carmona
+70,70,Female,86,150,Carmona
+42,70,Male,77,120,Bare' Nuevo
+68,60,Male,72,122,Bare' Nuevo
+62,68,Male,79,120,Bare' Nuevo
+90,72,Male,81,130,Bare' Nuevo
+74,80,Male,71,140,Bare' Nuevo
+70,72,Male,83,148,Bare' Nuevo
+48,80,Male,63,118,Bare' Nuevo
+31,90,Male,70,126,Bare' Nuevo
+45,86,Male,75,136,Bare' Nuevo
+44,80,Male,69,140,Bare' Nuevo
+49,90,Male,62,130,Bare' Nuevo
+21,66,Male,75,102,Bare' Nuevo
+35,70,Male,66,110,Bare' Nuevo
+30,62,Female,68,110,Bare' Nuevo
+46,70,Female,57,130,Bare' Nuevo
+39,80,Female,61,126,Bare' Nuevo
+46,92,Female,84,142,Bare' Nuevo
+48,90,Female,61,140,Bare' Nuevo
+43,82,Female,77,128,Bare' Nuevo
+70,100,Female,62,130,Bare' Nuevo
+35,76,Female,71,124,Bare' Nuevo
+100,78,Female,99,162,Bare' Nuevo
+23,86,Female,69,130,Bare' Nuevo
+23,75,Female,79,130,Bare' Nuevo
+40,70,Female,76,110,Bare' Nuevo
+15,40,Female,87,80,Bare' Nuevo
+60,104,Female,70,166,Bare' Nuevo
+55,92,Female,82,140,Bare' Nuevo
+40,104,Female,84,160,Bare' Nuevo
+37,90,Female,68,160,Bare' Nuevo
+54,82,Female,71,140,Bare' Nuevo
+38,80,Female,77,98,Bare' Nuevo
+42,90,Male,78,138,La Altagracia
+49,75,Male,83,120,La Altagracia
+59,84,Male,66,112,La Altagracia
+62,72,Male,70,112,La Altagracia
+40,84,Male,82,134,La Altagracia
+70,80,Male,73,140,La Altagracia
+34,82,Male,78,115,La Altagracia
+67,82,Male,78,140,La Altagracia
+72,60,Male,98,98,La Altagracia
+32,80,Male,78,115,La Altagracia
+56,80,Male,80,120,La Altagracia
+36,60,Male,75,80,La Altagracia
+59,70,Male,58,160,La Altagracia
+40,86,Male,73,126,La Altagracia
+35,80,Male,65,110,La Altagracia
+65,80,Male,74,130,La Altagracia
+60,60,Male,76,104,La Altagracia
+60,152,Male,72,236,La Altagracia
+53,78,Female,78,118,La Altagracia
+57,70,Female,71,120,La Altagracia
+46,95,Female,74,140,La Altagracia
+50,95,Female,67,120,La Altagracia
+20,78,Female,64,98,La Altagracia
+62,98,Female,78,164,La Altagracia
+66,100,Female,73,150,La Altagracia
+40,70,Female,67,110,La Altagracia
+49,90,Female,66,120,La Altagracia
+47,70,Female,64,130,La Altagracia
+40,130,Female,71,170,La Altagracia
+64,90,Female,72,180,La Altagracia
+42,70,Female,86,110,La Altagracia
+49,80,Female,72,120,La Altagracia
+40,90,Female,68,130,La Altagracia
+21,74,Female,62,118,La Altagracia
+70,80,Female,75,130,La Altagracia
+45,110,Female,66,190,La Altagracia
+63,100,Female,68,158,La Altagracia
+38,75,Female,57,90,La Altagracia
+34,70,Female,61,99,La Altagracia
+52,110,Female,84,210,La Altagracia
+60,115,Male,61,180,San Antonio
+50,90,Male,77,140,San Antonio
+77,96,Male,62,184,San Antonio
+65,75,Male,71,105,San Antonio
+70,86,Male,68,120,San Antonio
+53,80,Male,69,150,San Antonio
+73,90,Male,99,140,San Antonio
+40,90,Male,76,130,San Antonio
+61,88,Male,87,160,San Antonio
+58,78,Male,70,118,San Antonio
+73,110,Male,82,210,San Antonio
+67,80,Male,84,100,San Antonio
+65,110,Male,68,170,San Antonio
+35,90,Male,71,150,San Antonio
+60,80,Male,77,130,San Antonio
+65,80,Female,78,170,San Antonio
+72,90,Female,94,150,San Antonio
+39,80,Female,66,120,San Antonio
+45,96,Female,70,134,San Antonio
+30,60,Female,82,90,San Antonio
+40,90,Female,73,125,San Antonio
+43,110,Female,78,170,San Antonio
+55,90,Female,78,140,San Antonio
+39,100,Female,81,150,San Antonio
+29,70,Female,78,110,San Antonio
+50,80,Female,80,105,San Antonio
+45,85,Female,75,140,San Antonio
+30,70,Female,58,120,San Antonio
+33,60,Female,73,100,San Antonio
+48,78,Female,65,124,San Antonio
+40,86,Female,74,112,San Antonio
+42,102,Female,76,160,San Antonio
+50,100,Female,72,140,San Antonio
+38,78,Female,78,118,San Antonio
+54,105,Female,71,190,San Antonio
+46,70,Male,74,110,Los Gueneos
+53,78,Male,67,118,Los Gueneos
+65,82,Male,64,160,Los Gueneos
+67,90,Male,78,150,Los Gueneos
+26,82,Male,73,124,Los Gueneos
+35,82,Male,67,128,Los Gueneos
+67,90,Male,66,150,Los Gueneos
+48,78,Male,64,120,Los Gueneos
+60,70,Male,71,125,Los Gueneos
+17,80,Male,72,118,Los Gueneos
+52,92,Male,70,132,Los Gueneos
+50,60,Male,71,110,Los Gueneos
+63,90,Male,74,143,Los Gueneos
+44,96,Male,80,170,Los Gueneos
+66,70,Male,73,98,Los Gueneos
+42,76,Male,75,124,Los Gueneos
+41,110,Female,82,180,Los Gueneos
+54,100,Female,64,178,Los Gueneos
+49,80,Female,69,110,Los Gueneos
+34,80,Female,70,98,Los Gueneos
+50,102,Female,68,159,Los Gueneos
+20,76,Female,72,110,Los Gueneos
+40,80,Female,78,140,Los Gueneos
+37,70,Female,70,130,Los Gueneos
+45,82,Female,75,122,Los Gueneos
+32,84,Female,74,110,Los Gueneos
+32,75,Female,69,98,Los Gueneos
+40,110,Female,73,180,Los Gueneos
+30,75,Female,77,90,Los Gueneos
+29,84,Female,58,118,Los Gueneos
+43,90,Female,73,165,Los Gueneos
+32,98,Female,65,138,Los Gueneos
+46,84,Female,74,138,Los Gueneos
+40,104,Female,76,170,Los Gueneos
+18,68,Female,72,106,Los Gueneos
+69,110,Female,78,170,Los Gueneos
+48,74,Female,71,140,Los Gueneos
+22,60,Female,74,90,Los Gueneos
+36,76,Female,65,118,Los Gueneos
+47,70,Female,74,110,Los Gueneos
+39,62,Female,76,102,Los Gueneos
+38,75,Female,72,102,Los Gueneos
+52,120,Female,78,180,Los Gueneos
+49,69,Female,71,100,Los Gueneos
+37,75,Female,74,110,Los Gueneos
+37,90,Female,67,162,Los Gueneos
+54,92,Female,64,140,Los Gueneos
+22,65,Female,78,110,Los Gueneos
+42,70,Female,73,98,Los Gueneos
+45,92,Female,67,140,Los Gueneos
+46,92,Female,66,140,Los Gueneos
+54,75,Female,64,110,Los Gueneos
+36,110,Female,71,170,Los Gueneos
+77,64,Female,72,112,Los Gueneos
+87,80,Female,86,90,Los Gueneos
+95,68,Female,72,102,Los Gueneos
+29,78,Female,68,106,Los Gueneos
+45,78,Male,62,124,Batey Verde
+62,70,Male,75,110,Batey Verde
+62,100,Male,66,180,Batey Verde
+50,88,Male,68,138,Batey Verde
+52,60,Male,57,90,Batey Verde
+46,98,Male,61,150,Batey Verde
+73,88,Male,89,126,Batey Verde
+45,78,Male,61,110,Batey Verde
+67,88,Male,77,130,Batey Verde
+40,96,Male,62,150,Batey Verde
+54,90,Male,71,145,Batey Verde
+50,118,Female,68,140,Batey Verde
+50,100,Female,69,156,Batey Verde
+24,20,Female,79,110,Batey Verde
+17,78,Female,76,150,Batey Verde
+75,90,Female,87,160,Batey Verde
+21,80,Female,70,120,Batey Verde
+60,76,Female,82,140,Batey Verde
+78,70,Female,84,120,Batey Verde
+34,76,Female,68,110,Batey Verde
+42,76,Female,71,120,Batey Verde
+60,86,Female,77,140,Batey Verde
+44,86,Female,78,160,Batey Verde
+56,100,Female,83,160,Batey Verde
+38,66,Female,66,110,Batey Verde
+42,100,Female,70,150,Batey Verde
+31,78,Female,82,118,Batey Verde
+36,60,Female,73,110,Batey Verde
+40,80,Female,78,120,Batey Verde
+49,66,Female,78,120,Batey Verde
+50,88,Female,81,146,Batey Verde
+42,80,Female,78,124,Batey Verde
+34,100,Female,80,170,Batey Verde
+50,88,Female,75,124,Batey Verde
+63,104,Female,58,170,Batey Verde
+60,90,Female,73,159,Batey Verde
+28,80,Female,65,120,Batey Verde
+32,68,Female,74,120,Batey Verde
+34,70,Female,76,118,Batey Verde
+48,84,Female,72,152,Batey Verde
+85,100,Female,78,190,Batey Verde
