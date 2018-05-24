@@ -1,3 +1,5 @@
+//Holds the various structs necessary for processing
+
 package Patients
 
 import (
@@ -20,7 +22,7 @@ type GetPatientResponse struct {
 	Patient Patient `json:"patient"`
 }
 
-// AllPatientsResponse to form payload of an array of Patient  structs
+// AllPatientsResponse to form payload of an array of Patient structs
 type AllPatientsResponse struct {
 	Patient []Patient `json:"patients"`
 }

@@ -1,3 +1,7 @@
+//Gets patient data specific to request
+//Get function returns all Patients
+//GetOne returns one patient, determined from patientID given in the URL
+
 package Patients
 
 import (
@@ -14,6 +18,7 @@ func Get(w http.ResponseWriter, r *http.Request) {
 
   query := "SELECT id,gender,systolicbp,diastolicbp,age FROM patients"
   iterable := Cassandra.Session.Query(query).Iter()
+  //returning all patient data
   for iterable.MapScan(m) {
     patientList = append(patientList, Patient{
       ID: m["id"].(gocql.UUID),
@@ -34,7 +39,7 @@ func GetOne(w http.ResponseWriter, r *http.Request) {
   var found bool = false
 
   vars := mux.Vars(r)
-  id := vars["patient_uuid"]
+  id := vars["patient_uuid"] // returning one patient data with id in get request
 
   uuid, err := gocql.ParseUUID(id)
   if err != nil {
@@ -64,4 +69,3 @@ func GetOne(w http.ResponseWriter, r *http.Request) {
     json.NewEncoder(w).Encode(ErrorResponse{Errors: errs})
   }
 }
-

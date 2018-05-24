@@ -1,3 +1,10 @@
+// FormToPatient -- fills a User struct with submitted form data
+// params:
+// r - request reader to fetch form data or url params (unused here)
+// returns:
+// User struct if successful
+// array of strings of errors if any errors occur during processing
+
 package Patients
 
 import (
@@ -5,12 +12,7 @@ import (
 	"strconv"
 )
 
-// FormToPatient -- fills a User struct with submitted form data
-// params:
-// r - request reader to fetch form data or url params (unused here)
-// returns:
-// User struct if successful
-// array of strings of errors if any occur during processing
+
 func FormToPatient(r *http.Request) (Patient, []string) {
 	var patient Patient
 	var errStr, ageStr, systolicbpStr , diastolicbpStr, heartrateStr  string
@@ -40,7 +42,7 @@ func FormToPatient(r *http.Request) (Patient, []string) {
 
 	patient.Gender, errStr = processFormField(r, "gender")
 	errs = appendError(errs, errStr)
-	
+
 	heartrateStr, errStr = processFormField(r, "heartrate")
         if len(errStr) != 0 {
                 errs = append(errs, errStr)
@@ -63,7 +65,7 @@ func FormToPatient(r *http.Request) (Patient, []string) {
 	}
 	patient.Village, errStr = processFormField(r, "village")
         errs = appendError(errs, errStr)
-	 return patient, errs	
+	 return patient, errs
 }
 
 func appendError(errs []string, errStr string) ([]string) {

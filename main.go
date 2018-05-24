@@ -1,3 +1,4 @@
+//The main function - holds all routers and handlers related to it
 package main
 
 import (
@@ -27,4 +28,3 @@ CassandraSession := Cassandra.Session
 func heartbeat(w http.ResponseWriter, r *http.Request) {
   json.NewEncoder(w).Encode(heartbeatResponse{Status: "OK", Code: 200})
 }
-
